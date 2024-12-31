@@ -1,0 +1,7 @@
+/home/yujie.wu/mma_test/mma_gemm/build/CMakeFiles/hgemm.dir
+/home/yujie.wu/mma_test/mma_gemm/build/CMakeFiles/edit_cache.dir
+/home/yujie.wu/mma_test/mma_gemm/build/CMakeFiles/rebuild_cache.dir
+/home/yujie.wu/mma_test/mma_gemm/build/CMakeFiles/list_install_components.dir
+/home/yujie.wu/mma_test/mma_gemm/build/CMakeFiles/install.dir
+/home/yujie.wu/mma_test/mma_gemm/build/CMakeFiles/install/local.dir
+/home/yujie.wu/mma_test/mma_gemm/build/CMakeFiles/install/strip.dir

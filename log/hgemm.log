@@ -1,0 +1,11 @@
+[HGEMM 2024-12-30 16:08:06 3163191:3163191 main.cu:109 main] CUDA HGEMM start on the 0-th GPU: NVIDIA H100 PCIe
+[HGEMM 2024-12-30 16:08:06 3163191:3163191 main.cu:114 main] CUDA driver version / runtime version: 12.4 / 12.5
+[HGEMM 2024-12-30 16:08:06 3163191:3163191 main.cu:116 main] Total shared memory per multiprocessor: 228 KBytes (233472 Bytes)
+[HGEMM 2024-12-30 16:08:06 3163191:3163191 main.cu:118 main] Total number of registers available per block: 65536
+[HGEMM 2024-12-30 16:08:06 3163191:3163191 main.cu:121 main] A (16 x 4) * B (4 x 8) = C (16 x 8)
+[HGEMM 2024-12-30 16:08:06 3163191:3163191 main.cu:128 main] Selected data type: float (TF32) 
+[HGEMM 2024-12-30 16:08:06 3163191:3163191 utils.cuh:158 saveMatrixToFile] Result Matrix C saved to ./matrix_cublas.txt
+[HGEMM 2024-12-30 16:08:06 3163191:3163191 utils.cuh:158 saveMatrixToFile] Result Matrix C saved to ./matrix_C.txt
+[HGEMM 2024-12-30 16:08:06 3163191:3163191 utils.cuh:35 verify_matrix] [Matrix Verification] Success: No significant differences detected (EPS = 0.0000001)
+[HGEMM 2024-12-30 16:08:06 3163191:3163191 utils.cuh:38 verify_matrix] [Matrix Verification] Summary: Max Absolute Difference: 0.0000000 | Tolerance EPS: 0.0000001 | Total Elements: 128
+[HGEMM 2024-12-30 16:08:06 3163191:3163191 main.cu:87 run] Done
