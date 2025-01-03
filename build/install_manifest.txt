@@ -1,1 +1,0 @@
-/home/yujie.wu/mma_test/mma_gemm/output/bin/hgemm
